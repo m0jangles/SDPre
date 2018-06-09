@@ -17,6 +17,6 @@ public class ForgetfulMachine{
     keyboard.next();
 
     //the second question blows up when I type 59.77
-    //the second questions blows up when I type koala
+    //the third questions blows up when I type koala
   }
 }
