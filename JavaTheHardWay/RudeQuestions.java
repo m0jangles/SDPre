@@ -34,10 +34,10 @@ public class RudeQuestions{
 
     //No, the program does not blow up when you enter an integer when the program
     //is expecting a double because floating point variables can hold integers
-    //No, the program does not blow up when you enter a numberic value when import junit.framework.TestCase;
-    //is expecting a string because a strin input can be a numberic value
+    //No, the program does not blow up when you enter a numeric value when the program
+    //is expecting a string because a string input can be a numeric value
     //If I enter an import statement, for example, the import statement for the
-    //scanner library, the program blows up after the first statement because this is
+    //scanner library, the program blows up after the first question because this is
     //part of the code and it probably confuses the program
 
   }
